@@ -1,0 +1,66 @@
+[
+    {
+        "key":"001",
+        "title":"Business English",
+        "price":"199",
+        "img":"https://www.launchapex.org/wp-content/uploads/2018/05/Computer-Convo2.jpg",
+        "descriptionShort":"Focus on specific areas of business English using special classes designed for the corporate personals.",
+        "descriptionLong":"Our Business English course is for professionals who want to improve their English. This course is specifically designed for business persons. Focus on specific areas of business English using special classes designed for the corporate personals."
+    },
+    {
+        "key":"002",
+        "title":"English for Kids",
+        "price":"49",
+        "img":"https://www.britishcouncil.jo/sites/default/files/jordan-english-kids.jpg",
+        "descriptionShort":"Learn English by playing games! We have lots games, songs, stories and activities for children.",
+        "descriptionLong":"Our English for Kids is specifically designed for children who are learning English. We take best care of the kids and they learn from a lots of games, songs, stories and activities."
+    },
+    {
+        "key":"003",
+        "title":"Intensive English Program",
+        "price":"149",
+        "img":"https://tie.uic.edu/wp-content/uploads/sites/403/2020/02/IMG_0368-1090x727.jpg",
+        "descriptionShort":"The Intensive English Program is designed for students and migrants who need to master english in a short time.",
+        "descriptionLong":"This course is designed for students and migrants who want to face a high level english language test like IELTS or TOFEL. The Intensive English Program is also designed for students and migrants who need to master english in a short time. "
+    },
+    {
+        "key":"004",
+        "title":"Mastering Grammar and Vocabulary",
+        "price":"39",
+        "img":"https://www.sadlier.com/hs-fs/hubfs/images/Core_Lit_Blog/sbac-test-prep-and-sample-questions-for-reading-ela.jpg",
+        "descriptionShort":"Master vast amounts of grammatical structure in highly effective teaching and techniques.",
+        "descriptionLong":"Mastering a vast amounts of grammatical structure is very essential for English output. Mastering a large amount of sentence pattern or sentence structure and sufficient vocabularies is the basis of language output. Our course is designed to teach that in effective way."
+    },
+    {
+        "key":"005",
+        "title":"Private Coaching and Mentoring",
+        "price":"499",
+        "img":"https://beritamini.com/wp-content/uploads/2017/08/private-bahasa-inggris-jogja.jpg",
+        "descriptionShort":"Get a personalized language coaching to boost your English speaking skills. Or get the a private English coaching to prepare for your Job Interview.",
+        "descriptionLong":"Private Coaching and Mentoring help individuals improve their English skills for work, studying, socializing and to develop confidence in speaking generally. Get a personalized language coaching to boost your English speaking skills. Or get the a private English coaching to prepare for your Job Interview."
+    },
+    {
+        "key":"006",
+        "title":"Weekend English",
+        "price":"39",
+        "img":"http://faleinglesparasempre.com.br/wp-content/uploads/2016/09/English-lesson-5.jpg",
+        "descriptionShort":"Learn and practice English on Saturdays and Sundays.",
+        "descriptionLong":"Get a special coaching on weekends to learn and practice English in your free time. This is designed for the people who can't manage time to practice English in the weekdays."
+    },
+    {
+        "key":"007",
+        "title":"Part-Time Evening Program",
+        "price":"55",
+        "img":"https://www.jobsexpo.ie/wp-content/uploads/2017/07/mature-students.jpg",
+        "descriptionShort":"Get special english coaching sessions in the evening.",
+        "descriptionLong":"Part-Time Evening Program is for working adults who can learn and practice english after work and get special english coaching sessions in the evening."
+    },
+    {
+        "key":"008",
+        "title":"Intensive Speaking Course",
+        "price":"119",
+        "img":"https://1.bp.blogspot.com/-CZA_yBo6BmI/Xk0ruAhvoRI/AAAAAAAAAH0/gOJnEcoG0r8UydCl5_1IVvVhS-oF54fOgCLcBGAsYHQ/w1684-h1069-p-k-no-nu/7949.jpg",
+        "descriptionShort":"Intensive Spoken English Course is the exact course to help you dropkick perfectionism and permission-seeking, and instead take control of your thoughts, habits, and results.",
+        "descriptionLong":"Intensive Spoken English Course is the exact course to help you dropkick perfectionism and permission-seeking, and instead take control of your thoughts, habits, and results. It’s here to help you focus on the true driver of your entire life — your mind."
+    }
+]
