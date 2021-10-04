@@ -15,6 +15,7 @@ const Home = () => {
     return (
         <div className="container py-3">
             <Bonus></Bonus>
+            <h2 className="mt-4 mb-2 featured">Featured Services</h2>
             <div className="row">
                 {
                     courses.slice(0, 4)?.map(course => <div key={course.key} className="col-md-6">
