@@ -4,7 +4,6 @@ import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import Home from './components/Home/Home';
 import Error from './components/Error/Error';
-import CourseDetails from './components/CourseDetails/CourseDetails';
 import React from "react";
 import {
   BrowserRouter as Router,
@@ -36,9 +35,6 @@ function App() {
           </Route>
           <Route path="/contact">
             <Contact></Contact>
-          </Route>
-          <Route path="/details/id:courseKey">
-            <CourseDetails></CourseDetails>
           </Route>
           <Route path="*">
             <Error></Error>

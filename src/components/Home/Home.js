@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
 import Bonus from '../Bonus/Bonus';
 import './Home.css';
 
@@ -29,7 +28,7 @@ const Home = () => {
                                 <p>{course.descriptionShort}</p>
                                 <h6>Course Duration: {course.duration} months</h6>
                                 <h6>Monthly Fee: ${course.price}</h6>
-                                <Link to={`/details/${course.key}`}><button className="btn btn-warning mt-2">Details</button></Link>
+                                <button className="btn btn-warning mt-2">Details</button>
                             </div>
                         </div>
                     </div>)
