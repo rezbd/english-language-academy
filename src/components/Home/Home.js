@@ -10,12 +10,11 @@ const Home = () => {
             .then(data => setCourses(data))
     }, []);
 
-    console.log(courses)
     return (
         <div className="container py-3">
             <div className="row">
                 {
-                    courses.map(course => <div className="col-md-6">
+                    courses.slice(0, 4).map(course => <div key={course.key} className="col-md-6">
                         <div className="item">
                             <div>
                                 <img className="item-img w-75" src={course.img} alt="" />
