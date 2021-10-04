@@ -6,7 +6,7 @@ const Contact = () => {
         <div>
             <h2 className="py-5">Contact Us</h2>
             <p>Please give us feedback or ask any question.</p>
-            <Form className="w-50 mx-auto my-5">
+            <Form className="w-50 mx-auto mt-5 mb-2">
                 <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
                     <h6>Name</h6>
                     <Form.Control type="email" placeholder="your name" />
@@ -20,6 +20,7 @@ const Contact = () => {
                     <Form.Control as="textarea" rows={3} />
                 </Form.Group>
             </Form>
+            <button className="btn btn-primary mb-5">Submit</button>
         </div>
     );
 };
