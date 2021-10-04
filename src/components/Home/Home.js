@@ -13,9 +13,9 @@ const Home = () => {
     }, []);
 
     return (
-        <div className="container py-3">
+        <div className="container py-3 mb-4">
             <Bonus></Bonus>
-            <h2 className="mt-4 mb-2 featured">Featured Services</h2>
+            <h2 className="mt-5 mb-3 featured">Featured Services</h2>
             <div className="row">
                 {
                     courses.slice(0, 4)?.map(course => <div key={course.key} className="col-md-6">
