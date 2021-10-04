@@ -15,6 +15,7 @@ import Services from './components/Services/Services';
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';
 
+// routing for all the sections
 function App() {
   return (
     <div className="App">

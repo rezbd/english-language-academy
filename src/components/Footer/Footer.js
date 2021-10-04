@@ -1,6 +1,7 @@
 import React from 'react';
 import './Footer.css';
 
+// footer text and icons
 const Footer = () => {
     return (
         <div className="bg-dark py-4">

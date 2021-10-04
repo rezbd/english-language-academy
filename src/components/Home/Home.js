@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import Bonus from '../Bonus/Bonus';
 import './Home.css';
 
+// code for home page and extra section included in home
 const Home = () => {
     const [courses, setCourses] = useState([]);
 
@@ -33,7 +34,6 @@ const Home = () => {
                         </div>
                     </div>)
                 }
-
             </div>
         </div>
     );

@@ -1,6 +1,6 @@
 import React from 'react';
-import './Error.css';
 
+// error handling for unknown route link
 const Error = () => {
     return (
         <div className="my-5">

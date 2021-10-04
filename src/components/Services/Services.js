@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './Services.css';
 
+// all the services of the website in one column
 const Services = () => {
     const [courses, setCourses] = useState([]);
 

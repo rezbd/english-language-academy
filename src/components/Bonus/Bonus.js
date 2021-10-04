@@ -1,6 +1,7 @@
 import React from 'react';
 import './Bonus.css';
 
+// discount offer content under header section
 const Bonus = () => {
     return (
         <div className="bonus py-4 my-4 row container">

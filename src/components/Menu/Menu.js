@@ -3,7 +3,7 @@ import { Navbar, Container, Nav } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import "./Menu.css";
 
-
+// menubar developed by bootstrap and custom styles
 const Menu = () => {
     return (
         <Navbar bg="dark" variant="dark">
