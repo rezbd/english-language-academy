@@ -9,6 +9,10 @@
     
 }
 
+.services-body {
+    background-color: rgb(201, 201, 201);
+}
+
 .service-img{
     border-radius: 10px;
 }

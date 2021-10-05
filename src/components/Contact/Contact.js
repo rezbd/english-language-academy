@@ -1,10 +1,12 @@
 import React from 'react';
 import { Form } from 'react-bootstrap';
+import "./Contact.css";
 
+// contact us page form
 const Contact = () => {
     return (
-        <div>
-            <h2 className="py-5">Contact Us</h2>
+        <div className="contact">
+            <h2 className="py-5">How Can We Help?</h2>
             <p className="fs-5">Please give us feedback or ask your query.</p>
             <Form className="w-50 mx-auto mt-5 mb-2">
                 <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
@@ -20,7 +22,7 @@ const Contact = () => {
                     <Form.Control as="textarea" rows={3} />
                 </Form.Group>
             </Form>
-            <button className="btn btn-primary mb-5">Submit</button>
+            <button className="btn contact-submit mb-5">Submit</button>
         </div>
     );
 };
