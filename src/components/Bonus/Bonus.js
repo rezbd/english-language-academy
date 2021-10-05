@@ -11,7 +11,7 @@ const Bonus = () => {
             <div className="col-12 col-md-6">
                 <h1 className="bonus-text mb-4 fs-1">Save 20%</h1>
                 <p className="mb-4">Get enrolled withing 31st October 2021 to get 20% discount in any course of English Language Academy.</p>
-                <button className="btn btn-secondary mt-4">Start Now</button>
+                <button className="btn btn-dark btn-bonus mt-4">Start Now</button>
             </div>
         </div>
     );

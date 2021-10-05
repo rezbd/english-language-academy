@@ -1,9 +1,14 @@
 /* style for contact us page */
 .contact{
-    background-color: rgb(201, 201, 201);
+    background-color: rgb(211, 211, 211);
 }
 
-.contact-submit{
+.contact-btn{
     background-color: rgb(44, 44, 44);
-    color: rgb(209, 209, 209);
+    color: rgb(230, 230, 230);
+}
+
+.contact-text{
+    text-align: left;
+    padding-left: 0.2rem;
 }
