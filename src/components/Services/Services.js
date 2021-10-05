@@ -12,7 +12,7 @@ const Services = () => {
     }, []);
     return (
         <div className="container mb-4">
-            <h2 className="mt-4 mb-2 featured">All Services</h2>
+            <h2 className="mt-4 mb-3 fs-1 featured">All Services</h2>
             <div className="row">
                 {
                     courses?.map(course => <div key={course.key} className="col-md-9 mx-auto">
@@ -23,8 +23,8 @@ const Services = () => {
                             <div>
                                 <h2>{course.title}</h2>
                                 <p>{course.descriptionLong}</p>
-                                <h5>Course Duration: {course.duration} months</h5>
-                                <h5>Monthly Fee: ${course.price}</h5>
+                                <h5 className="fs-6">Course Duration: {course.duration} months</h5>
+                                <h5 className="mt-3">Price: ${course.price} /<span className="fs-6">mo</span></h5>
                             </div>
                         </div>
                     </div>)

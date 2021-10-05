@@ -24,11 +24,11 @@ const Home = () => {
                                 <img className="item-img w-75" src={course.img} alt="" />
                             </div>
                             <div>
-                                <h3>{course.title}</h3>
+                                <h3 className="pt-2">{course.title}</h3>
                                 <p>{course.descriptionShort}</p>
                                 <h6>Course Duration: {course.duration} months</h6>
-                                <h6>Monthly Fee: ${course.price}</h6>
-                                <button className="btn btn-warning mt-2">Details</button>
+                                <h5 className="my-3">Price: ${course.price} /<span className="fs-6">mo</span></h5>
+                                <button className="btn btn-warning mt-1">Details</button>
                             </div>
                         </div>
                     </div>)
