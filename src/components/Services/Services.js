@@ -23,7 +23,8 @@ const Services = () => {
                             <div>
                                 <h2>{course.title}</h2>
                                 <p>{course.descriptionLong}</p>
-                                <h5 className="fs-6">Course Duration: {course.duration} months</h5>
+                                <h6>Instructor: {course.instructor}</h6>
+                                <h5 className="fs-6 mt-3">Course Duration: {course.duration} months</h5>
                                 <h5 className="mt-3">Price: ${course.price} /<span className="fs-6">mo</span></h5>
                             </div>
                         </div>
